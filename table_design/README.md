@@ -28,13 +28,15 @@ PMは、親レッスンページと子レッスンページを作成して、ど
         - 子レッスンの最小レッスン時間
         - 子レッスンの最大レッスン時間
         - タグ
-        - （ここに画像を記載する）
+
+        <img width="380" alt="img1" src="https://github.com/wondernuts/recruitment_exam/assets/22848303/bc7adc08-f269-4bea-8fa3-b9c6802700c0">
         
     - Body
         - 子レッスンのインストラクター一覧
         - 説明文
         - 子レッスンの使用するアイテム一覧
-        - （ここに画像を記載する）
+        
+        <img width="380" alt="img2" src="https://github.com/wondernuts/recruitment_exam/assets/22848303/9841e8dc-5dc4-4618-a493-17a66174af31">
         
     - 子レッスン一覧
         - レッスン数
@@ -44,7 +46,8 @@ PMは、親レッスンページと子レッスンページを作成して、ど
         - 子レッスンの最大カロリー
         - 子レッスンの速度
         - 子レッスンのレッスン時間
-        - （ここに画像を記載する）
+        
+        <img width="380" alt="image" src="https://github.com/wondernuts/recruitment_exam/assets/22848303/9d8fe167-295e-45ab-9b20-f9e49d1b9083">
         
 - 子レッスンページの表示
     - ヘッダー
@@ -56,13 +59,15 @@ PMは、親レッスンページと子レッスンページを作成して、ど
         - 速度
         - タグ
         - ジャンル
-        - （ここに画像を記載する）
+        
+        <img width="380" alt="img4" src="https://github.com/wondernuts/recruitment_exam/assets/22848303/a294f9d5-d3da-49c0-93d0-e1fafa589f57">
         
     - Body
         - インストラクター一覧
         - 説明文
         - 使用するアイテム一覧
-        - （ここに画像を記載する）
+        
+        <img width="380" alt="img5" src="https://github.com/wondernuts/recruitment_exam/assets/22848303/3104185c-17e7-45cb-a54d-13480a405d67">
 
 
 ### デザインのリンク
