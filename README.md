@@ -12,7 +12,7 @@ notion招待のメールを弊社人事から送信いたしますのでお待�
 
 | リンク | 概要 |
 | ---- | --- |
-| [table_design]() | 基礎的なテーブル設計のテストを実施 |
+| [table_design](https://github.com/wondernuts/recruitment_exam/tree/main/table_design) | 基礎的なテーブル設計のテストを実施 |
 
 ## 採点基準
 弊社の試験ではアウトプットに関して、具体的な点数をつけておりません。問題作成の意図と解答の意図が一致しておれば基本的に合格としております。  
